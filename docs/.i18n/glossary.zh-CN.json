@@ -2194,5 +2194,9 @@
   {
     "source": "Build and develop",
     "target": "构建与开发"
+  },
+  {
+    "source": "Named message bookmarks",
+    "target": "命名消息书签"
   }
 ]
